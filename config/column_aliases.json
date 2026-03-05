@@ -1,0 +1,7 @@
+{
+  "manufacturer": ["manufacturer", "mfr", "brand", "vendor"],
+  "part_number": ["part_number", "part #", "part no", "sku", "model", "model #", "item"],
+  "description": ["description", "item description", "product"],
+  "quantity": ["qty", "quantity", "count", "units"],
+  "category": ["category", "type"]
+}
